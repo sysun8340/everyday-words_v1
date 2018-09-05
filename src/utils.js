@@ -1,20 +1,6 @@
-const months = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
-const days = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 
-  16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31
-]
+import data from './data.json'
 
-const logModule = (m, d) => {
-  return(
-    `{
-        "id": "${m}-${d}",
-        "text": " ",
-        "ref": " "
-      }<br>`
-  )
+export const getWordsMessage = currentDate => {
+  const id = `${currentDate.getMonth() + 1}-${currentDate.getDate()}`
+  return data.words.find(word => word.id === id)
 }
-
-months.map(m => {
-  days.map(d => {
-    logModule(m, d)
-  })
-}).join('')

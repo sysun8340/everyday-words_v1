@@ -1,14 +1,616 @@
 {
-  "data": [
+  "words": [
     {
       "id": "1-1",
-      "text": "起初神创造天地。",
-      "ref": "创世纪1：1"
+      "text": "",
+      "reference": ""
     },
     {
       "id": "1-2",
-      "text": "人向耶和华献供物为平安祭、若是从羊群中献、无论是公的、是母的、必用没有残疾的。",
-      "ref": "利未记3：6"
+      "text": "",
+      "reference": ""
+    },
+    {
+      "id": "1-3",
+      "text": "",
+      "reference": ""
+    },
+    {
+      "id": "1-4",
+      "text": "",
+      "reference": ""
+    },
+    {
+      "id": "1-5",
+      "text": "",
+      "reference": ""
+    },
+    {
+      "id": "1-6",
+      "text": "",
+      "reference": ""
+    },
+    {
+      "id": "1-7",
+      "text": "",
+      "reference": ""
+    },
+    {
+      "id": "1-8",
+      "text": "",
+      "reference": ""
+    },
+    {
+      "id": "1-9",
+      "text": "",
+      "reference": ""
+    },
+    {
+      "id": "1-10",
+      "text": "",
+      "reference": ""
+    },
+    {
+      "id": "1-11",
+      "text": "",
+      "reference": ""
+    },
+    {
+      "id": "1-12",
+      "text": "",
+      "reference": ""
+    },
+    {
+      "id": "1-13",
+      "text": "",
+      "reference": ""
+    },
+    {
+      "id": "1-14",
+      "text": "",
+      "reference": ""
+    },
+    {
+      "id": "1-15",
+      "text": "",
+      "reference": ""
+    },
+    {
+      "id": "1-16",
+      "text": "",
+      "reference": ""
+    },
+    {
+      "id": "1-17",
+      "text": "",
+      "reference": ""
+    },
+    {
+      "id": "1-18",
+      "text": "",
+      "reference": ""
+    },
+    {
+      "id": "1-19",
+      "text": "",
+      "reference": ""
+    },
+    {
+      "id": "1-20",
+      "text": "",
+      "reference": ""
+    },
+    {
+      "id": "1-21",
+      "text": "",
+      "reference": ""
+    },
+    {
+      "id": "1-22",
+      "text": "",
+      "reference": ""
+    },
+    {
+      "id": "1-23",
+      "text": "",
+      "reference": ""
+    },
+    {
+      "id": "1-24",
+      "text": "",
+      "reference": ""
+    },
+    {
+      "id": "1-25",
+      "text": "",
+      "reference": ""
+    },
+    {
+      "id": "1-26",
+      "text": "",
+      "reference": ""
+    },
+    {
+      "id": "1-27",
+      "text": "",
+      "reference": ""
+    },
+    {
+      "id": "1-28",
+      "text": "",
+      "reference": ""
+    },
+    {
+      "id": "1-29",
+      "text": "",
+      "reference": ""
+    },
+    {
+      "id": "1-30",
+      "text": "",
+      "reference": ""
+    },
+    {
+      "id": "1-31",
+      "text": "",
+      "reference": ""
+    },
+    {
+      "id": "2-1",
+      "text": "",
+      "reference": ""
+    },
+    {
+      "id": "2-2",
+      "text": "",
+      "reference": ""
+    },
+    {
+      "id": "2-3",
+      "text": "",
+      "reference": ""
+    },
+    {
+      "id": "2-4",
+      "text": "",
+      "reference": ""
+    },
+    {
+      "id": "2-5",
+      "text": "",
+      "reference": ""
+    },
+    {
+      "id": "2-6",
+      "text": "",
+      "reference": ""
+    },
+    {
+      "id": "2-7",
+      "text": "",
+      "reference": ""
+    },
+    {
+      "id": "2-8",
+      "text": "",
+      "reference": ""
+    },
+    {
+      "id": "2-9",
+      "text": "",
+      "reference": ""
+    },
+    {
+      "id": "2-10",
+      "text": "",
+      "reference": ""
+    },
+    {
+      "id": "2-11",
+      "text": "",
+      "reference": ""
+    },
+    {
+      "id": "2-12",
+      "text": "",
+      "reference": ""
+    },
+    {
+      "id": "2-13",
+      "text": "",
+      "reference": ""
+    },
+    {
+      "id": "2-14",
+      "text": "",
+      "reference": ""
+    },
+    {
+      "id": "2-15",
+      "text": "",
+      "reference": ""
+    },
+    {
+      "id": "2-16",
+      "text": "",
+      "reference": ""
+    },
+    {
+      "id": "2-17",
+      "text": "",
+      "reference": ""
+    },
+    {
+      "id": "2-18",
+      "text": "",
+      "reference": ""
+    },
+    {
+      "id": "2-19",
+      "text": "",
+      "reference": ""
+    },
+    {
+      "id": "2-20",
+      "text": "",
+      "reference": ""
+    },
+    {
+      "id": "2-21",
+      "text": "",
+      "reference": ""
+    },
+    {
+      "id": "2-22",
+      "text": "",
+      "reference": ""
+    },
+    {
+      "id": "2-23",
+      "text": "",
+      "reference": ""
+    },
+    {
+      "id": "2-24",
+      "text": "",
+      "reference": ""
+    },
+    {
+      "id": "2-25",
+      "text": "",
+      "reference": ""
+    },
+    {
+      "id": "2-26",
+      "text": "",
+      "reference": ""
+    },
+    {
+      "id": "2-27",
+      "text": "",
+      "reference": ""
+    },
+    {
+      "id": "2-28",
+      "text": "",
+      "reference": ""
+    },
+    {
+      "id": "2-29",
+      "text": "",
+      "reference": ""
+    },
+    {
+      "id": "2-30",
+      "text": "",
+      "reference": ""
+    },
+    {
+      "id": "3-1",
+      "text": "",
+      "reference": ""
+    },
+    {
+      "id": "3-2",
+      "text": "",
+      "reference": ""
+    },
+    {
+      "id": "3-3",
+      "text": "",
+      "reference": ""
+    },
+    {
+      "id": "3-4",
+      "text": "",
+      "reference": ""
+    },
+    {
+      "id": "3-5",
+      "text": "",
+      "reference": ""
+    },
+    {
+      "id": "3-6",
+      "text": "",
+      "reference": ""
+    },
+    {
+      "id": "3-7",
+      "text": "",
+      "reference": ""
+    },
+    {
+      "id": "3-8",
+      "text": "",
+      "reference": ""
+    },
+    {
+      "id": "3-9",
+      "text": "",
+      "reference": ""
+    },
+    {
+      "id": "3-10",
+      "text": "",
+      "reference": ""
+    },
+    {
+      "id": "3-11",
+      "text": "",
+      "reference": ""
+    },
+    {
+      "id": "3-12",
+      "text": "",
+      "reference": ""
+    },
+    {
+      "id": "3-13",
+      "text": "",
+      "reference": ""
+    },
+    {
+      "id": "3-14",
+      "text": "",
+      "reference": ""
+    },
+    {
+      "id": "3-15",
+      "text": "",
+      "reference": ""
+    },
+    {
+      "id": "3-16",
+      "text": "",
+      "reference": ""
+    },
+    {
+      "id": "3-17",
+      "text": "",
+      "reference": ""
+    },
+    {
+      "id": "3-18",
+      "text": "",
+      "reference": ""
+    },
+    {
+      "id": "3-19",
+      "text": "",
+      "reference": ""
+    },
+    {
+      "id": "3-20",
+      "text": "",
+      "reference": ""
+    },
+    {
+      "id": "3-21",
+      "text": "",
+      "reference": ""
+    },
+    {
+      "id": "3-22",
+      "text": "",
+      "reference": ""
+    },
+    {
+      "id": "3-23",
+      "text": "",
+      "reference": ""
+    },
+    {
+      "id": "3-24",
+      "text": "",
+      "reference": ""
+    },
+    {
+      "id": "3-25",
+      "text": "",
+      "reference": ""
+    },
+    {
+      "id": "3-26",
+      "text": "",
+      "reference": ""
+    },
+    {
+      "id": "3-27",
+      "text": "",
+      "reference": ""
+    },
+    {
+      "id": "3-28",
+      "text": "",
+      "reference": ""
+    },
+    {
+      "id": "3-29",
+      "text": "",
+      "reference": ""
+    },
+    {
+      "id": "3-30",
+      "text": "",
+      "reference": ""
+    },
+    {
+      "id": "3-31",
+      "text": "",
+      "reference": ""
+    },
+    {
+      "id": "4-1",
+      "text": "",
+      "reference": ""
+    },
+    {
+      "id": "4-2",
+      "text": "",
+      "reference": ""
+    },
+    {
+      "id": "4-3",
+      "text": "",
+      "reference": ""
+    },
+    {
+      "id": "4-4",
+      "text": "",
+      "reference": ""
+    },
+    {
+      "id": "4-5",
+      "text": "",
+      "reference": ""
+    },
+    {
+      "id": "4-6",
+      "text": "",
+      "reference": ""
+    },
+    {
+      "id": "4-7",
+      "text": "",
+      "reference": ""
+    },
+    {
+      "id": "4-8",
+      "text": "",
+      "reference": ""
+    },
+    {
+      "id": "4-9",
+      "text": "",
+      "reference": ""
+    },
+    {
+      "id": "4-10",
+      "text": "",
+      "reference": ""
+    },
+    {
+      "id": "4-11",
+      "text": "",
+      "reference": ""
+    },
+    {
+      "id": "4-12",
+      "text": "",
+      "reference": ""
+    },
+    {
+      "id": "4-13",
+      "text": "",
+      "reference": ""
+    },
+    {
+      "id": "4-14",
+      "text": "",
+      "reference": ""
+    },
+    {
+      "id": "4-15",
+      "text": "",
+      "reference": ""
+    },
+    {
+      "id": "4-16",
+      "text": "",
+      "reference": ""
+    },
+    {
+      "id": "4-17",
+      "text": "",
+      "reference": ""
+    },
+    {
+      "id": "4-18",
+      "text": "",
+      "reference": ""
+    },
+    {
+      "id": "4-19",
+      "text": "",
+      "reference": ""
+    },
+    {
+      "id": "4-20",
+      "text": "",
+      "reference": ""
+    },
+    {
+      "id": "4-21",
+      "text": "",
+      "reference": ""
+    },
+    {
+      "id": "4-22",
+      "text": "",
+      "reference": ""
+    },
+    {
+      "id": "4-23",
+      "text": "",
+      "reference": ""
+    },
+    {
+      "id": "4-24",
+      "text": "",
+      "reference": ""
+    },
+    {
+      "id": "4-25",
+      "text": "",
+      "reference": ""
+    },
+    {
+      "id": "4-26",
+      "text": "",
+      "reference": ""
+    },
+    {
+      "id": "4-27",
+      "text": "",
+      "reference": ""
+    },
+    {
+      "id": "4-28",
+      "text": "",
+      "reference": ""
+    },
+    {
+      "id": "4-29",
+      "text": "",
+      "reference": ""
+    },
+    {
+      "id": "4-30",
+      "text": "",
+      "reference": ""
     }
+    
+
   ]
 }
