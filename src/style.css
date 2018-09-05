@@ -1,0 +1,36 @@
+html, body, body>div {
+  width: 100%;
+  height: 100%;
+  margin: 0 0;
+  padding: 0 0;
+}
+.backgroundImage {
+  background-image: url('./images/walkWithGod.jpg');
+  background-size: cover;
+  height: 100%;
+  width: 100%;
+}
+.ilustration {
+  position: absolute;
+  right: 100px;
+  bottom: 80px;
+  width: 25%;
+  min-width: 200px;
+}
+.bibleWords {
+  position: absolute;
+  left: 80px;
+  right: 100px;
+  text-align: center;
+  top: 100px;
+  border: 1px solid black;
+  min-width: 1000px;
+}
+.words {
+  font-family:Arial, Helvetica, sans-serif;
+  font-size: 1.4rem;
+}
+.ref {
+  font-family:Arial, Helvetica, sans-serif;
+  font-size: 1.2rem;
+}
