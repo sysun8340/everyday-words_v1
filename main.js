@@ -1,4 +1,4 @@
-const {app, BrowserWindow} = require('electron')
+const {app, BrowserWindow, Menu} = require('electron')
 const path = require('path')
 const url = require('url')
 const pkg = require('./package')
@@ -9,6 +9,7 @@ let win
 
 function createWindow () {
   // Create the browser window.
+  Menu.setApplicationMenu(null)
   win = new BrowserWindow({width: 1200, height: 800})
   win.setMinimumSize(1200, 800)
   win.setMaximumSize(1200, 800)
