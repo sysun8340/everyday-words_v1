@@ -1,8 +1,8 @@
 import React, { Component } from 'react'
-import memory from './images/WechatIMG1.jpg'
 import BibleWords from './components/BibleWords'
 import './style.css'
 import { Button } from 'semantic-ui-react'
+import memory from './images/WechatIMG1.jpg'
 import 'semantic-ui-css/semantic.min.css'
 import { genRandomId, getIdByDate, getWordsById } from './utils'
 
